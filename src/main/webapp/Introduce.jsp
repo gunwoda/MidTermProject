@@ -9,6 +9,7 @@
 <body>
 <h1> Introduction Page </h1>
 
-<p>Name:</p>
+<p>Name: 김건우</p>
+<p>Address: 경기도 하남시</p>
 </body>
 </html>
