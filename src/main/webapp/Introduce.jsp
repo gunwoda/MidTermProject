@@ -14,7 +14,7 @@
 
 <h2> 나의 취미 </h2>
 <div class = "hobby">
-<h3>1.축구 보기</h3>
+<h3>축구 보기</h3>
 <p>저는 해외축구 보는 것을 좋아하고, FC바르셀로나의 팬이며, 메시를 좋아합니다.</p>
 <img class="img" src="FCB.png">
 <img class="img" src="messi.jpg">
